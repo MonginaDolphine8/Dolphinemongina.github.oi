@@ -1,14 +1,11 @@
-title: Dolphine Mongina # your name (or website title) here
-logo: "/images/Dolphinemongina.png?raw=true" # your photo (or logo) here
+title: John Doe # your name (or website title) here
+logo: "/images/Dolphinemonigna.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  My name is Dolphine Mongina 
+  First description 
   <br><br>
-
-With more than 3 years of experience in geospatial and statistical analysis
-
+  Second description 
   <br><br>
-
-  <a href="https://www.linkedin.com/in/dolphine-mongina-903314135/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
