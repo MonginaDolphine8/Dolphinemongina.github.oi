@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Maize Suitability in Kenya](/sample_page)
-<img src="images/Machine Learning.png?raw=true"/>
+<img src="images/MachineLearning.PNG?raw=true"/>
 
 ---
 [Renewable Energy Potential in Kenya](/pdf/sample_presentation.pdf)
